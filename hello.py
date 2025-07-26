@@ -1,3 +1,4 @@
-# Meu primeiro programa
+#!/usr/bin/env python3
 
-print("Hello, world!")
+# Meu primeiro programa
+print("Hello, World!")
